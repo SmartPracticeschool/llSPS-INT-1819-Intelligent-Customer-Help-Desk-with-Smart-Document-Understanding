@@ -1,0 +1,1287 @@
+{
+  "intents": [
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "fees",
+      "examples": [
+        {
+          "text": "fee structure"
+        },
+        {
+          "text": "fees structure"
+        },
+        {
+          "text": "fees of college"
+        },
+        {
+          "text": "cost of studying"
+        },
+        {
+          "text": "total fees"
+        },
+        {
+          "text": "academic fee"
+        },
+        {
+          "text": "fee"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "Brilliant!"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "Admission_faq_1",
+      "examples": [
+        {
+          "text": "Documents required"
+        },
+        {
+          "text": "class hours"
+        },
+        {
+          "text": "merit list"
+        },
+        {
+          "text": "branch choice"
+        },
+        {
+          "text": "online counselling"
+        },
+        {
+          "text": "college hours"
+        },
+        {
+          "text": "class timings"
+        },
+        {
+          "text": "rooms"
+        },
+        {
+          "text": "Events and Functions"
+        },
+        {
+          "text": "Schlorship"
+        },
+        {
+          "text": "Bio-metric System"
+        },
+        {
+          "text": "Gate In/Out Pass"
+        },
+        {
+          "text": "Preparatory Leave"
+        },
+        {
+          "text": "Refund of Hostel charges"
+        },
+        {
+          "text": "Refund of Hostel and Messing Charges"
+        },
+        {
+          "text": "Refund of Messing charges"
+        },
+        {
+          "text": "Visitors"
+        },
+        {
+          "text": "Excursions"
+        },
+        {
+          "text": "Picnic Trips"
+        },
+        {
+          "text": "Private Vehicles"
+        },
+        {
+          "text": "Medical Aid"
+        },
+        {
+          "text": "medical"
+        },
+        {
+          "text": "medical facilities"
+        },
+        {
+          "text": "Allotment of Guest Rooms"
+        },
+        {
+          "text": "Guest Rooms"
+        },
+        {
+          "text": "Procedure for Allotment of Rooms"
+        },
+        {
+          "text": "ragging"
+        },
+        {
+          "text": "disciplinary action"
+        },
+        {
+          "text": "leave"
+        },
+        {
+          "text": "refund of hostel fees"
+        },
+        {
+          "text": "loan"
+        },
+        {
+          "text": "scholarship"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dress_code",
+      "examples": [
+        {
+          "text": "wear"
+        },
+        {
+          "text": "uniform"
+        },
+        {
+          "text": "dress"
+        },
+        {
+          "text": "dressing"
+        },
+        {
+          "text": "AIT dress code"
+        },
+        {
+          "text": "dress code"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Do you have a name?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "thank_you",
+      "examples": [
+        {
+          "text": "cheers"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "appreciate it"
+        }
+      ]
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Cya later"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "Admission_faq",
+      "examples": [
+        {
+          "text": "contact information"
+        },
+        {
+          "text": "what is the fee structure"
+        },
+        {
+          "text": "what is honour code"
+        },
+        {
+          "text": "is there any fee concession"
+        },
+        {
+          "text": "how is the library"
+        },
+        {
+          "text": "what is the cut of merit this year"
+        },
+        {
+          "text": "entrance exam"
+        },
+        {
+          "text": "jee mains"
+        },
+        {
+          "text": "jee main"
+        },
+        {
+          "text": "entrance test"
+        },
+        {
+          "text": "hostel in time"
+        },
+        {
+          "text": "allotment of rooms"
+        },
+        {
+          "text": "allotment of room"
+        },
+        {
+          "text": "hostel"
+        },
+        {
+          "text": "library"
+        },
+        {
+          "text": "Educational Loan"
+        },
+        {
+          "text": "education loan"
+        },
+        {
+          "text": "honour code"
+        },
+        {
+          "text": "how much is the fees?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "how are you"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "How is it going?"
+        }
+      ],
+      "description": "Greet the bot."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Campus_in_time",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "in time",
+          "synonyms": [
+            "campus in time",
+            "time to get back to hostel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Late Night",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "library",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "library",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/rbfranklin_17411%40aitpune.edu.in_dev/default/fetch-data-action.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1591787961400",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1591787961436",
+      "previous_sibling": "handler_3_1591787961436"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_1_1591787961400",
+      "event_name": "input",
+      "dialog_node": "handler_3_1591787961436"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1591603631699",
+      "disabled": true,
+      "conditions": "anything_else",
+      "dialog_node": "response_1_1592030365350",
+      "previous_sibling": "response_10_1592030364514"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "\"<?$webhook_result_4.passages[1].passage_text?>\""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1591603631699",
+      "disabled": true,
+      "conditions": "",
+      "dialog_node": "response_10_1592030364514"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"<?$webhook_result_1.results[0].text?>\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1591782202308",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_5_1591782231067",
+      "previous_sibling": "slot_1_1591787961400"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1591782202308",
+      "conditions": "$we",
+      "dialog_node": "response_10_1591782236037",
+      "previous_sibling": "response_5_1591782231067"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1591782202308",
+      "dialog_node": "slot_1_1591787961400"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_2_1591987546380",
+      "conditions": "anything_else",
+      "dialog_node": "response_10_1591987593276",
+      "previous_sibling": "response_2_1591987589698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"<?$webhook_result_2.passages[0].passage_text?>\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1591987546380",
+      "conditions": "$webhook_result_2",
+      "dialog_node": "response_2_1591987589698"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1591602256245",
+      "conditions": "",
+      "dialog_node": "response_4_1592028971740",
+      "previous_sibling": "response_9_1592028942141"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey! How can I help you today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1591602256245",
+      "conditions": "#General_Greetings",
+      "dialog_node": "response_9_1592028942141"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1592029102860",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You are welcome!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#thank_you",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1592029102860",
+      "previous_sibling": "node_7_1591603631699"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_5_1591602256245",
+      "previous_sibling": "node_1_1591782202308"
+    },
+    {
+      "type": "standard",
+      "title": "Admission queries 2",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input_text?>"
+          },
+          "result_variable": "webhook_result_2"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Admission_faq_1",
+      "dialog_node": "node_2_1591987546380",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Admission queries",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input_text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Admission_faq",
+      "dialog_node": "node_1_1591782202308",
+      "previous_sibling": "node_2_1591987546380"
+    },
+    {
+      "type": "standard",
+      "title": "Uniform",
+      "output": {
+        "text": {
+          "values": [
+            "AIT Uniform.     The AIT uniform for students is as under:- <br> \n \n (a) Shirt – light blue colour with full sleeves. Cuffs / sleeves of the shirts will not be rolled up.<br>   (b) Trouser – grey colour. <br>  (c) Black coloured belt (preferably of leather).<br>   (d) Neck tie – maroon colour with AIT emblem/logo. <br>  (e) Shoes – black brogue/oxford with black/grey socks.  <br>  (f) Blazer – navy blue (in winter and for formal functions).  <br> (g) T shirt white with grey stripes and AIT black/grey socks (for sports activities). <br>  (h) Navy blue colour overall combination (Boiler suit) with AIT emblem/logo(for workshop classes). <br>  (j) Turban – maroon colour (for Sikh students only).   "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {
+        "callout": {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input_text?>"
+          },
+          "result_variable": "webhook_result_4"
+        },
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#dress_code",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1591603631699",
+      "previous_sibling": "node_6_1591601923158"
+    },
+    {
+      "type": "standard",
+      "title": "FAQ's",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please refer the link<br> <a  target=\"_blank\" href=\"https://www.aitpune.com/Notices/admission19/Fees%20Structure%20AY%202019-20.pdf\">AIT Fees Structure 2019-20</a>.<br/><br/>\nNote: This is subject to change every year."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#fees",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1591601923158",
+      "previous_sibling": "node_5_1591602256245"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey! I am the Armybot. I am here to help you with your queries on Admissions and About this amazing institution."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "AIT Assist",
+  "language": "en",
+  "description": "Have doubt about admissions to AIT? Feel free to ask here."
+}
